@@ -1,1 +1,1 @@
-Click on `Click here to view the Principle` to understand how the simulation works.
+Procedure is under construction.
