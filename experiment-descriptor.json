@@ -21,13 +21,6 @@
       "content-type": "text"
     },
     {
-      "target": "procedure.html",
-      "source": "procedure.md",
-      "label": "Procedure",
-      "unit-type": "task",
-      "content-type": "text"
-    },
-    {
       "target": "simulation.html",
       "source": "simulation/index.html",
       "label": "Simulation",
