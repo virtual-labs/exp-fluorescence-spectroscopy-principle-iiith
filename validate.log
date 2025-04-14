@@ -1,0 +1,11 @@
+{
+  _: [],
+  f: [
+    '/home/runner/work/exp-fluorescence-spectroscopy-principle-iiith/exp-fluorescence-spectroscopy-principle-iiith/experiment-descriptor.json'
+  ],
+  files: [
+    '/home/runner/work/exp-fluorescence-spectroscopy-principle-iiith/exp-fluorescence-spectroscopy-principle-iiith/experiment-descriptor.json'
+  ],
+  '$0': 'validate'
+}
+Validated true
